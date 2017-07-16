@@ -1,0 +1,13 @@
+---
+-
+  id: Nobody06
+  author:
+    -
+      family: Jr
+      given: Nobody
+  title: My Article
+  issued:
+    date-parts:
+      -
+        - 2006
+  type: misc

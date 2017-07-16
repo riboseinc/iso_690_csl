@@ -6,7 +6,6 @@ group :development do
 end
 
 group :test do
-  gem 'bibtex-ruby'
   gem 'rspec'
 end
 
