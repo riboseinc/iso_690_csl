@@ -1,6 +1,7 @@
 ---
 -
   id: Nobody06
+  type: misc
   author:
     -
       family: Jr
@@ -10,4 +11,28 @@
     date-parts:
       -
         - 2006
-  type: misc
+-
+  id: ISO13586
+  type: report
+  genre: Standard
+  key: 'ISO 13586:2000(E)'
+  title: Plastics - Determination of fracture toughness - Linear elastic fracture mechanics (LEFM) approach
+  volume: 2000
+  publisher-place: Geneva, CH
+  publisher: International Organization for Standardization
+  month_numeric: 3
+  issued:
+    date-parts:
+      -
+        - 2000
+        - 3
+-
+  id: DPA1984
+  type: book
+  author:
+    -
+      family: Great Britain
+  title: Data Protection Act 1984
+  publisher-place: London
+  publisher: HMSO
+  # Schedule 1, c35, Part 1, Clause 7.
